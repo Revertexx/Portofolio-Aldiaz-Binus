@@ -3,7 +3,7 @@ const projects = [
         id:1,
         title: "VintageArena",
         description: "Webstite page using HTML, CSS, JS",
-        image: "/public/VintageArena.png",
+        image: "/VintageArena.png",
         tags: ["HTML", "CSS", "Java"],
     },
 
@@ -11,7 +11,7 @@ const projects = [
         id:2,
         title: "JeniusAcademy",
         description: "Webstite page using HTML, CSS, JS",
-        image: "/public/Jenius_Academy.png",
+        image: "/Jenius_Academy.png",
         tags: [" HTML ", " CSS ", " Java "],
     },
 
@@ -19,7 +19,7 @@ const projects = [
         id:3,
         title: "ICCSCI - 2025",
         description: "Presented research on 'Optimizing Asynchronous Performance in Node.js with Express and PostgreSQL' at the 10th International Conference on Computer Science and Computational Intelligence (ICCSCI 2025).",
-        image: "/public/ICCSCI.png",
+        image: "/ICCSCI.png",
         tags: ["Papers", "PosgreSQL", "Node.Js"],
 
     },
@@ -28,7 +28,7 @@ const projects = [
         id:4,
         title: "HackerRank - 2025",
         description: "SQL (Basic) Certified by HackerRank. Earned on September 20, 2025.",
-        image: "/public/HackerRankSQLBeginner.png",
+        image: "/HackerRankSQLBeginner.png",
         tags: ["SQL"],
 
     }
