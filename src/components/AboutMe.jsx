@@ -9,64 +9,20 @@ export const AboutMe = () => {
                     About <span className="text-primary"> Me</span>
                 </h2>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-                    <div className="space-y-6">
-                        <h3 className="text-2xl font-semibold">Passionate Database Student at Binus University</h3>
+                <div className="flex justify-center">
+                    <div className="space-y-6 text-center max-w-3xl">
+                        <h3 className="text-2xl font-semibold">My Journey into the World of Data</h3>
 
                         <p className="text-muted-foreground">
-                            Hello, My name is Aldiaz Kusuma Ramadhan, and i'm a computer science student at Binus University,
-                            interested in database handling and Analytics.
+                        As a 5th-semester Computer Science student at Binus University, I've discovered my passion lies in the intricate world of databases and analytics. 
+                        I'm fascinated by how structured data can be transformed into powerful insights and robust solutions. My goal is to build a career as a Database and Analytics Engineer, 
+                        where I can apply my skills to solve complex challenges and drive data-informed decisions.
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a href="#contact" className="cosmic-button"> Get In Touch</a>
                             <a href="https://drive.google.com/file/d/1gOhPaMHB3JhY-LU8Wdbh25kQVFtfFnRk/preview" 
-                            className="px-6 py-2 rounded-full border border-primary text-primary hover:bg=primary/10 transition-colors duration-300"> Preview CV</a> 
-                        </div>
-                    </div>
-                    <div className="grid grid-cols-1 gap-6">
-                        <div className="gradient-border p-6 card-hover">
-                            <div className="flex items-start gap-4">
-                                <div className="p-3 rounded-full bg-primary/10">
-                                    <Code className="h-6 w-6 text-primary"/>
-                                </div>
-                                <div className="text-left">
-                                    <h4 className="font-semibold">Database WareHouse</h4>
-                                    <p className="text-muted-foreground">
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="gradient-border p-6 card-hover">
-                            <div className="flex items-start gap-4">
-                                <div className="p-3 rounded-full bg-primary/10">
-                                    <User className="h-6 w-6 text-primary"/>
-                                </div>
-                                <div className="text-left">
-                                    <h4 className="font-semibold">Database WareHouse</h4>
-                                    <p className="text-muted-foreground">
-
-                                    </p>
-                                </div>
-
-
-                            </div>
-                        </div>
-                        <div className="gradient-border p-6 card-hover">
-                            <div className="flex items-start gap-4">
-                                <div className="p-3 rounded-full bg-primary/10">
-                                    <Briefcase className="h-6 w-6 text-primary"/>
-                                </div>
-                                <div className="text-left">
-                                    <h4 className="font-semibold">Database WareHouse</h4>
-                                    <p className="text-muted-foreground">
-
-                                    </p>
-                                </div>
-
-
-                            </div>
+                            className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"> Preview CV</a> 
                         </div>
                     </div>
                 </div>
