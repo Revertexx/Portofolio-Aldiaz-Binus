@@ -99,7 +99,7 @@ export const ContactSection = () => {
                     onSubmit={handleSubmit}>
                         <h3 className="text-2xl font-semibold mb-6"> Send a Message</h3>
 
-                        <form className="space-y-6">
+                        <form className="space-y-6" netlify>
                             <div>
                                 <label htmlFor="name" className="block text-sm font-md mb-2"> Your Name</label>
                                 <input 
