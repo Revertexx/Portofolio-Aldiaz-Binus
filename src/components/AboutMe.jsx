@@ -21,7 +21,7 @@ export const AboutMe = () => {
 
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                             <a href="#contact" className="cosmic-button"> Get In Touch</a>
-                            <a href="https://drive.google.com/file/d/1gOhPaMHB3JhY-LU8Wdbh25kQVFtfFnRk/preview" 
+                            <a href="https://www.canva.com/design/DAGzTCxlB2A/T2JJAl7-eDMPfU28IsmvIA/view?utm_content=DAGzTCxlB2A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h18c3da0b35" 
                             className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"> Preview CV</a> 
                         </div>
                     </div>
