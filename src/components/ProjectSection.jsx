@@ -31,6 +31,14 @@ const projects = [
         image: "/HackerRankSQLBeginner.png",
         tags: ["SQL"],
 
+    },
+
+    {
+        id:5,
+        title: "Alzheimer Detector",
+        description: "Creating an AI-Detection project for detecting alzheimer desease, Participate in Data preprocessing and cleaning the data and checking the health of the data that being used for the training model like Random Forest and Logistic Regression.",
+        image: "/AlzheimerDetector.png ",
+        tags: ["Papers", "Python"],
     }
 ];
 
