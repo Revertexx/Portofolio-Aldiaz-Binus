@@ -39,6 +39,14 @@ const projects = [
         description: "Creating an AI-Detection project for detecting alzheimer desease, Participate in Data preprocessing and cleaning the data and checking the health of the data that being used for the training model like Random Forest and Logistic Regression.",
         image: "/AlzheimerDetector.png ",
         tags: ["Papers", "Python"],
+    },
+
+    {
+        id:6,
+        title: "Data Mining - Analisis Pengaruh Faktor Iklim terhadap Perubahan Harga Pangan di Indonesia",
+        description: "Creating Data Mining project for price analysis in indonesia, Participate in Data preprocessing, cleaning, and modelling the data for checking the health of the data that being used for the training model like Regression (RFR, XGBoost), Association (Apriori), and Clustering (K-Means).",
+        image: "DataMining.png ",
+        tags: ["Papers", "Python"],
     }
 ];
 
